@@ -103,13 +103,33 @@
 - ✅ **Flexible**: Multiple architectures, backbones, and hyperparameter options
 - ✅ **Open source**: GPLv2+ license, fully auditable
 
-## Support & Services
+## Support & Contribution
 
-- **Professional support**
-- **Custom model development**
-- **Training & workshops**
+### Community Support
 
-Contact: [hello@nextelia.fr](mailto:hello@nextelia.fr)
+**Documentation**: [qgeoai.nextelia.fr](https://qgeoai.nextelia.fr)
+
+### Professional Support
+
+For operational support, custom integrations, or training:
+
+- **Email**: [hello@nextelia.fr](mailto:hello@nextelia.fr)
+- **Website**: [nextelia.fr](https://nextelia.fr)
+
+The suite is free and open-source. Professional services ensure sustainable development.
+
+### Contributing
+
+This project is developed as an open, production-grade GeoAI platform for QGIS.
+
+We welcome:
+- Bug reports with reproducible steps
+- Documentation improvements
+- Real-world feedback
+
+For larger changes, new features or architectural modifications, please open an issue first to discuss alignment with the project roadmap.
+
+The roadmap is maintained by the core team to ensure long-term stability, consistency and production readiness.
 
 ---
 
