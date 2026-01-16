@@ -55,7 +55,7 @@
 ## Interface
 
 <div align="center">
-<img src="assets/qmt_ui.png" alt="QAnnotate ui" width="1024"/>
+<img src="assets/images/qmt_ui.png" alt="QModel Trainer ui" width="1024"/>
 </div>
 
 ## Quick Start
