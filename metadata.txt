@@ -6,7 +6,7 @@ version=0.9.0
 author=Nextelia
 email=hello@nextelia.fr
 
-about=QModel Trainer brings deep learning model training directly into QGIS. Train SMP, Mask R-CNN and YOLO 11 models. Features include data augmentation, learning rate finder, resume training, early stopping, and comprehensive HTML reports. Part of QGeoAI Tools suite - requires QGeoAI Server for PyTorch/CUDA acceleration. Export trained models to QMTP format for seamless use with QPredict. Supports both GPU (CUDA) and CPU training with automatic hardware detection.
+about=about=QModel Trainer is a QGIS plugin for deep learning model training. It supports SMP, Mask R-CNN, and YOLO11 models with data augmentation, learning rate finder, resume training, early stopping, HTML reports, and QMTP export. AI features require QGeoAI Server for PyTorch/CUDA acceleration. Supports both GPU and CPU training.
 
 tracker=https://github.com/nextelia/qmodeltrainer/issues
 repository=https://github.com/nextelia/qmodeltrainer
@@ -25,9 +25,8 @@ changelog=0.9.0 - Pre-release (January 2026)
     - Early stopping with configurable patience
     - HTML training reports
     - QMTP model export format
-    1.0.0 - Production release planned for Q1 2026
 
-tags=deep learning, geoai, training, YOLO11, UNet, segmentation, detection, machine learning, pytorch, CUDA, QGeoAI, geospatial AI
+tags=deep-learning,geoai,training,YOLO11,UNet,segmentation,detection,pytorch,CUDA,QGeoAI,geospatial-AI
 
 category=Raster
 icon=assets/images/icon.png
